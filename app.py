@@ -141,14 +141,6 @@ def render_sidebar():
         
         st.markdown("---")
         
-        # API Key configuration
-        with st.expander("⚙️ Settings"):
-            api_key = st.text_input("OpenAI API Key", type="password", 
-                                    value=os.getenv("OPENAI_API_KEY", ""))
-            if api_key:
-                st.session_state.gpt_client = GPTClient(api_key=api_key)
-                st.success("API Key configured!")
-        
         # Current contract info
         if st.session_state.contract_text:
             st.markdown("---")
@@ -352,18 +344,39 @@ def render_analysis_dashboard():
         
         risk_dist = results.get('risk', {}).get('risk_distribution', {})
         if risk_dist:
-            fig = go.Figure(data=[go.Pie(
-                labels=list(risk_dist.keys()),
-                values=list(risk_dist.values()),
-                marker_colors=['#4caf50', '#ff9800', '#f44336', '#9c27b0'],
-                hole=0.4
-            )])
-            fig.update_layout(
-                showlegend=True,
-                height=250,
-                margin=dict(l=20, r=20, t=20, b=20)
-            )
-            st.plotly_chart(fig, use_container_width=True)
+            # Filter out zero values
+            filtered_dist = {k: v for k, v in risk_dist.items() if v > 0}
+            
+            if filtered_dist:
+                # Map risk levels to colors
+                color_map = {
+                    'low': '#4caf50',
+                    'medium': '#ff9800', 
+                    'high': '#f44336',
+                    'critical': '#9c27b0'
+                }
+                labels = list(filtered_dist.keys())
+                values = list(filtered_dist.values())
+                colors = [color_map.get(label.lower(), '#999999') for label in labels]
+                
+                fig = go.Figure(data=[go.Pie(
+                    labels=[l.capitalize() for l in labels],
+                    values=values,
+                    marker_colors=colors,
+                    hole=0.4,
+                    textinfo='label+percent',
+                    textposition='auto'
+                )])
+                fig.update_layout(
+                    showlegend=True,
+                    height=250,
+                    margin=dict(l=20, r=20, t=20, b=20)
+                )
+                st.plotly_chart(fig, use_container_width=True)
+            else:
+                st.info("No risk data available for visualization.")
+        else:
+            st.info("No risk distribution data available.")
         
         # Priority Issues
         st.markdown("### ⚠️ Priority Issues")

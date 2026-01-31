@@ -359,13 +359,14 @@ class RiskAnalyzer:
                 for cat, score in category_scores.items()
             )
             base_score = max(category_scores.values())
-            risk_score = (weighted_score * 0.4) + (base_score * 0.6)
+            # Reduce the impact of base scores to avoid inflated risk
+            risk_score = (weighted_score * 0.5) + (base_score * 0.3)
         else:
-            risk_score = 0.2  # Base risk for any clause
+            risk_score = 0.15  # Base risk for any clause
         
-        # Adjust for red flags
+        # Adjust for red flags (reduced impact)
         if red_flags:
-            risk_score = min(risk_score + (len(red_flags) * 0.15), 1.0)
+            risk_score = min(risk_score + (len(red_flags) * 0.1), 1.0)
         
         # Determine risk level
         risk_level = self._score_to_level(risk_score)
@@ -419,11 +420,11 @@ class RiskAnalyzer:
     
     def _score_to_level(self, score: float) -> RiskLevel:
         """Convert numeric score to risk level."""
-        if score >= 0.8:
+        if score >= 0.75:
             return RiskLevel.CRITICAL
-        elif score >= 0.6:
+        elif score >= 0.55:
             return RiskLevel.HIGH
-        elif score >= 0.35:
+        elif score >= 0.30:
             return RiskLevel.MEDIUM
         else:
             return RiskLevel.LOW
