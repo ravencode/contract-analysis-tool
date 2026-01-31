@@ -281,7 +281,7 @@ LOW: score < 0.30
 
 **Configuration:**
 ```python
-model: "gpt-4" or "gpt-3.5-turbo"
+model: "gpt-5-mini"
 temperature: 0.3 (for consistency)
 max_tokens: 2000
 ```

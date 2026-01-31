@@ -23,7 +23,7 @@ for directory in [DATA_DIR, AUDIT_LOG_DIR, KNOWLEDGE_BASE_DIR, UPLOADS_DIR]:
 
 # OpenAI Configuration
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
-OPENAI_MODEL = "gpt-4"  # Using GPT-4 as GPT-5 proxy
+OPENAI_MODEL = "gpt-5-mini"
 OPENAI_MAX_TOKENS = 4096
 OPENAI_TEMPERATURE = 0.3  # Lower temperature for legal analysis accuracy
 
