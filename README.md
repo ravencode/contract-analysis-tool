@@ -1,5 +1,7 @@
 # Contract Analysis & Risk Assessment Bot 🔍⚖️
 
+https://contract-analysis-tool.streamlit.app/
+
 A sophisticated GenAI-powered legal assistant designed for Indian SMEs to understand complex contracts, identify legal risks, and receive actionable advice in plain language.
 
 ## Features
