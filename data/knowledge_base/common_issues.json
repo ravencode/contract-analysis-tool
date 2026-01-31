@@ -1,0 +1,189 @@
+{
+  "common_contract_issues": {
+    "employment_agreements": [
+      {
+        "issue": "Unreasonable Non-Compete Clauses",
+        "description": "Non-compete clauses with excessive duration (>2 years) or geographic scope (nationwide/worldwide)",
+        "risk_level": "high",
+        "recommendation": "Negotiate to limit duration to 6-12 months and geographic scope to relevant market area"
+      },
+      {
+        "issue": "Vague Termination Clauses",
+        "description": "Termination 'for cause' without clear definition of what constitutes cause",
+        "risk_level": "medium",
+        "recommendation": "Request specific enumeration of termination causes with cure periods"
+      },
+      {
+        "issue": "Broad IP Assignment",
+        "description": "Assignment of all intellectual property including work done outside office hours",
+        "risk_level": "high",
+        "recommendation": "Limit IP assignment to work directly related to job duties during work hours"
+      },
+      {
+        "issue": "Missing Gratuity/PF Provisions",
+        "description": "Contract doesn't mention statutory benefits like Provident Fund and Gratuity",
+        "risk_level": "medium",
+        "recommendation": "Ensure all statutory benefits are explicitly mentioned per applicable labor laws"
+      },
+      {
+        "issue": "One-sided Notice Period",
+        "description": "Employer has shorter notice period than employee",
+        "risk_level": "medium",
+        "recommendation": "Negotiate equal notice periods for both parties"
+      }
+    ],
+    "vendor_contracts": [
+      {
+        "issue": "Unlimited Liability",
+        "description": "No cap on vendor's liability for damages",
+        "risk_level": "critical",
+        "recommendation": "Negotiate liability cap (typically 1-2x contract value)"
+      },
+      {
+        "issue": "Vague Delivery Terms",
+        "description": "No specific delivery dates or milestones defined",
+        "risk_level": "high",
+        "recommendation": "Include detailed delivery schedule with specific dates and acceptance criteria"
+      },
+      {
+        "issue": "Automatic Price Escalation",
+        "description": "Prices can be increased unilaterally without cap",
+        "risk_level": "medium",
+        "recommendation": "Cap annual price increases (e.g., to inflation rate) and require advance notice"
+      },
+      {
+        "issue": "Inadequate Quality Standards",
+        "description": "No clear quality specifications or acceptance criteria",
+        "risk_level": "high",
+        "recommendation": "Define detailed quality standards, testing procedures, and rejection rights"
+      }
+    ],
+    "lease_agreements": [
+      {
+        "issue": "Excessive Lock-in Period",
+        "description": "Lock-in period longer than 11 months without exit options",
+        "risk_level": "high",
+        "recommendation": "Negotiate reasonable lock-in (6-11 months) with early termination provisions"
+      },
+      {
+        "issue": "Unclear Maintenance Responsibilities",
+        "description": "No clear division of maintenance responsibilities between lessor and lessee",
+        "risk_level": "medium",
+        "recommendation": "Explicitly define who is responsible for structural vs. regular maintenance"
+      },
+      {
+        "issue": "Unreasonable Rent Escalation",
+        "description": "Annual rent increase exceeds market norms (>10%)",
+        "risk_level": "medium",
+        "recommendation": "Negotiate reasonable escalation (5-8% annually) tied to market rates"
+      },
+      {
+        "issue": "Forfeiture of Security Deposit",
+        "description": "Entire security deposit forfeited for minor breaches",
+        "risk_level": "high",
+        "recommendation": "Limit forfeiture to actual damages with itemized deductions"
+      }
+    ],
+    "service_contracts": [
+      {
+        "issue": "Scope Creep Without Compensation",
+        "description": "Client can add work without additional payment",
+        "risk_level": "high",
+        "recommendation": "Include change order process with pricing for additional work"
+      },
+      {
+        "issue": "Unrealistic SLAs",
+        "description": "Service level agreements with impossible uptime guarantees (99.99%+)",
+        "risk_level": "medium",
+        "recommendation": "Negotiate realistic SLAs with reasonable penalties"
+      },
+      {
+        "issue": "Broad Indemnification",
+        "description": "One-sided indemnification covering all claims regardless of fault",
+        "risk_level": "high",
+        "recommendation": "Limit indemnification to claims arising from party's own negligence or breach"
+      },
+      {
+        "issue": "Perpetual Confidentiality",
+        "description": "Confidentiality obligations that never expire",
+        "risk_level": "medium",
+        "recommendation": "Limit confidentiality period to 3-5 years post-termination"
+      }
+    ],
+    "partnership_deeds": [
+      {
+        "issue": "Unclear Profit Sharing",
+        "description": "Profit sharing ratio not clearly defined or subject to change",
+        "risk_level": "high",
+        "recommendation": "Clearly define profit/loss sharing ratios with amendment procedures"
+      },
+      {
+        "issue": "No Exit Mechanism",
+        "description": "No clear process for partner exit or buyout",
+        "risk_level": "critical",
+        "recommendation": "Include detailed exit provisions with valuation methodology"
+      },
+      {
+        "issue": "Unlimited Partner Liability",
+        "description": "Partners personally liable for all partnership debts",
+        "risk_level": "high",
+        "recommendation": "Consider LLP structure or include liability caps and insurance requirements"
+      }
+    ]
+  },
+  "indian_sme_specific_issues": [
+    {
+      "issue": "Missing Stamp Duty Provisions",
+      "description": "Contract doesn't address stamp duty requirements",
+      "recommendation": "Specify which party bears stamp duty and ensure proper stamping for enforceability"
+    },
+    {
+      "issue": "Foreign Jurisdiction Clauses",
+      "description": "Dispute resolution in foreign courts/arbitration seats",
+      "recommendation": "Negotiate Indian jurisdiction for cost-effective dispute resolution"
+    },
+    {
+      "issue": "Dollar-Denominated Payments",
+      "description": "Payments in foreign currency without hedging provisions",
+      "recommendation": "Include currency fluctuation provisions or INR payment options"
+    },
+    {
+      "issue": "Missing GST Provisions",
+      "description": "No clarity on GST applicability and responsibility",
+      "recommendation": "Clearly specify GST treatment and which party bears the tax"
+    },
+    {
+      "issue": "TDS Non-Compliance",
+      "description": "No provisions for TDS deduction as required by Income Tax Act",
+      "recommendation": "Include TDS deduction provisions with proper documentation requirements"
+    }
+  ],
+  "red_flag_phrases": [
+    "sole and absolute discretion",
+    "without cause or reason",
+    "irrevocable and unconditional",
+    "perpetual and worldwide",
+    "waive all claims",
+    "unlimited liability",
+    "no right of appeal",
+    "binding and final",
+    "at its own cost and expense",
+    "indemnify and hold harmless from any and all claims"
+  ],
+  "negotiation_tips": {
+    "general": [
+      "Always request a redline version showing changes from standard template",
+      "Never sign under pressure - take time to review",
+      "Get legal review for contracts above INR 10 lakhs",
+      "Keep copies of all correspondence during negotiation",
+      "Document verbal agreements in writing"
+    ],
+    "leverage_points": [
+      "Long-term relationship potential",
+      "Volume commitments",
+      "Prompt payment history",
+      "Market alternatives",
+      "Urgency of the other party"
+    ]
+  }
+}

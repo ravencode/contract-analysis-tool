@@ -1,0 +1,114 @@
+EMPLOYMENT AGREEMENT
+
+This Employment Agreement ("Agreement") is made and entered into on this 15th day of January, 2026
+
+BETWEEN:
+
+TechVision Solutions Private Limited, a company incorporated under the Companies Act, 2013, having its registered office at 42, Electronic City Phase 1, Bangalore, Karnataka - 560100 (hereinafter referred to as the "Company" or "Employer") of the FIRST PART;
+
+AND
+
+Rahul Sharma, aged 28 years, residing at 156, Koramangala 4th Block, Bangalore, Karnataka - 560034, holding PAN ABCPS1234K (hereinafter referred to as the "Employee") of the SECOND PART.
+
+WHEREAS:
+
+A. The Company is engaged in the business of software development and IT consulting services;
+B. The Employee possesses the qualifications and experience required by the Company;
+C. The Company desires to employ the Employee as a Senior Software Engineer.
+
+NOW, THEREFORE, the Parties agree as follows:
+
+1. POSITION AND DUTIES
+
+1.1 The Company hereby employs the Employee in the position of Senior Software Engineer with effect from February 1, 2026.
+
+1.2 The Employee shall report to the Engineering Manager.
+
+1.3 The Employee shall perform software development, code review, and technical mentoring duties as assigned.
+
+2. COMPENSATION
+
+2.1 The Company shall pay the Employee a gross annual salary of INR 18,00,000 (Rupees Eighteen Lakhs only), payable in monthly installments.
+
+2.2 The Employee shall be entitled to:
+   (a) Provident Fund contribution as per EPF Act;
+   (b) Medical insurance coverage of INR 5,00,000;
+   (c) Annual performance bonus up to 15% of annual salary.
+
+3. WORKING HOURS
+
+3.1 The normal working hours shall be 9 hours per day, 5 days per week.
+
+3.2 The Employee may be required to work additional hours without additional compensation.
+
+4. LEAVE
+
+4.1 The Employee shall be entitled to 24 days of Earned Leave, 12 days of Sick Leave, and 6 days of Casual Leave per annum.
+
+5. PROBATION
+
+5.1 The Employee shall be on probation for 6 months from the date of joining.
+
+5.2 During probation, either Party may terminate with 15 days' notice.
+
+6. CONFIDENTIALITY
+
+6.1 The Employee shall maintain strict confidentiality of all proprietary information, trade secrets, client data, and business information of the Company.
+
+6.2 This obligation shall survive termination for a period of 3 years.
+
+7. INTELLECTUAL PROPERTY
+
+7.1 All intellectual property created by the Employee during employment, whether during or outside working hours, shall be the exclusive property of the Company.
+
+7.2 The Employee hereby irrevocably assigns all rights to such intellectual property to the Company.
+
+8. NON-COMPETE
+
+8.1 During employment and for 24 months thereafter, the Employee shall not engage in any business that competes with the Company anywhere in India.
+
+8.2 The Employee shall not solicit any customer or employee of the Company for 24 months after termination.
+
+9. TERMINATION
+
+9.1 After probation, either Party may terminate with 90 days' written notice or salary in lieu.
+
+9.2 The Company may terminate immediately without notice for:
+   (a) Gross misconduct;
+   (b) Breach of confidentiality;
+   (c) Poor performance;
+   (d) Any reason at the Company's sole discretion.
+
+9.3 Upon termination, the Employee shall return all Company property and shall not be entitled to any severance pay.
+
+10. DISPUTE RESOLUTION
+
+10.1 Any dispute shall be referred to arbitration in Singapore under ICC Rules.
+
+10.2 The decision of the arbitrator shall be final and binding with no right of appeal.
+
+11. GOVERNING LAW
+
+11.1 This Agreement shall be governed by the laws of India.
+
+11.2 The courts of Bangalore shall have jurisdiction.
+
+12. GENERAL
+
+12.1 The Company may amend this Agreement at its sole discretion with 30 days' notice.
+
+12.2 The Employee waives all claims against the Company arising from employment.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement.
+
+For TechVision Solutions Private Limited:
+
+_______________________________
+Authorized Signatory
+Date: January 15, 2026
+
+Employee:
+
+_______________________________
+Rahul Sharma
+Date: January 15, 2026

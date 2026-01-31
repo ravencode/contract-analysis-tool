@@ -1,0 +1,185 @@
+EMPLOYMENT AGREEMENT
+
+This Employment Agreement ("Agreement") is made and entered into on this [DATE] day of [MONTH], [YEAR]
+
+BETWEEN:
+
+[COMPANY NAME], a company incorporated under the laws of India, having its registered office at [ADDRESS] (hereinafter referred to as the "Company" or "Employer", which expression shall, unless repugnant to the context or meaning thereof, include its successors and assigns) of the FIRST PART;
+
+AND
+
+[EMPLOYEE NAME], aged [AGE] years, residing at [ADDRESS], holding PAN [PAN NUMBER] (hereinafter referred to as the "Employee", which expression shall, unless repugnant to the context or meaning thereof, include his/her heirs, executors, and administrators) of the SECOND PART.
+
+The Company and the Employee are hereinafter individually referred to as "Party" and collectively as "Parties".
+
+WHEREAS:
+
+A. The Company is engaged in the business of [BUSINESS DESCRIPTION];
+B. The Employee possesses the qualifications, skills, and experience required by the Company;
+C. The Company desires to employ the Employee and the Employee desires to be employed by the Company on the terms and conditions set forth herein.
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements herein contained, the Parties agree as follows:
+
+1. DEFINITIONS AND INTERPRETATION
+
+1.1 In this Agreement, unless the context otherwise requires:
+   (a) "Confidential Information" means all information relating to the business, operations, technology, customers, and affairs of the Company;
+   (b) "Effective Date" means [DATE];
+   (c) "Intellectual Property" means all patents, copyrights, trademarks, trade secrets, and other intellectual property rights;
+   (d) "Salary" means the gross monthly compensation payable to the Employee.
+
+2. POSITION AND DUTIES
+
+2.1 The Company hereby employs the Employee in the position of [DESIGNATION] with effect from the Effective Date.
+
+2.2 The Employee shall report to [REPORTING MANAGER/DESIGNATION].
+
+2.3 The Employee shall perform such duties as may be assigned by the Company from time to time, including but not limited to:
+   (a) [DUTY 1];
+   (b) [DUTY 2];
+   (c) [DUTY 3];
+   (d) Such other duties as may be reasonably assigned.
+
+2.4 The Employee shall devote full time, attention, and abilities to the business of the Company during working hours.
+
+3. COMPENSATION AND BENEFITS
+
+3.1 The Company shall pay the Employee a gross annual salary of INR [AMOUNT] (Rupees [AMOUNT IN WORDS] only), payable in twelve (12) equal monthly installments.
+
+3.2 The salary shall be subject to applicable tax deductions at source as per the Income Tax Act, 1961.
+
+3.3 The Employee shall be entitled to the following benefits:
+   (a) Provident Fund contribution as per applicable laws;
+   (b) Gratuity as per the Payment of Gratuity Act, 1972;
+   (c) Medical insurance coverage of INR [AMOUNT];
+   (d) [OTHER BENEFITS].
+
+3.4 Annual salary reviews shall be conducted at the discretion of the Company based on performance.
+
+4. WORKING HOURS AND LOCATION
+
+4.1 The normal working hours shall be [X] hours per day, [Y] days per week, excluding lunch breaks.
+
+4.2 The Employee may be required to work additional hours as necessary for the proper performance of duties without additional compensation.
+
+4.3 The primary place of work shall be [LOCATION]. The Company may require the Employee to work at other locations as needed.
+
+5. LEAVE AND HOLIDAYS
+
+5.1 The Employee shall be entitled to:
+   (a) [X] days of Earned Leave per annum;
+   (b) [Y] days of Sick Leave per annum;
+   (c) [Z] days of Casual Leave per annum;
+   (d) Public holidays as declared by the Company.
+
+5.2 Leave shall be availed as per the Company's leave policy in effect from time to time.
+
+5.3 Unused Earned Leave may be carried forward or encashed as per Company policy.
+
+6. PROBATION PERIOD
+
+6.1 The Employee shall be on probation for a period of [X] months from the Effective Date.
+
+6.2 During the probation period, either Party may terminate this Agreement by giving [Y] days' written notice.
+
+6.3 Upon successful completion of the probation period, the Employee shall be confirmed in writing.
+
+7. CONFIDENTIALITY
+
+7.1 The Employee acknowledges that during the course of employment, the Employee will have access to Confidential Information.
+
+7.2 The Employee agrees to:
+   (a) Maintain strict confidentiality of all Confidential Information;
+   (b) Not disclose Confidential Information to any third party without prior written consent;
+   (c) Use Confidential Information solely for the purposes of employment;
+   (d) Return all Confidential Information upon termination.
+
+7.3 The obligations under this clause shall survive the termination of this Agreement for a period of [X] years.
+
+8. INTELLECTUAL PROPERTY
+
+8.1 All Intellectual Property created by the Employee during the course of employment shall be the exclusive property of the Company.
+
+8.2 The Employee hereby assigns to the Company all rights, title, and interest in any Intellectual Property created during employment.
+
+8.3 The Employee shall execute all documents necessary to perfect the Company's ownership of such Intellectual Property.
+
+9. NON-COMPETE AND NON-SOLICITATION
+
+9.1 During the term of employment and for a period of [X] months thereafter, the Employee shall not:
+   (a) Engage in any business that directly competes with the Company within [GEOGRAPHIC AREA];
+   (b) Solicit or attempt to solicit any customer or client of the Company;
+   (c) Solicit or attempt to solicit any employee of the Company.
+
+9.2 The restrictions in this clause are reasonable and necessary for the protection of the Company's legitimate business interests.
+
+10. TERMINATION
+
+10.1 After the probation period, either Party may terminate this Agreement by giving [X] days' written notice or salary in lieu thereof.
+
+10.2 The Company may terminate this Agreement immediately without notice for cause, including but not limited to:
+   (a) Gross misconduct or insubordination;
+   (b) Breach of any material term of this Agreement;
+   (c) Conviction of a criminal offense;
+   (d) Fraud, dishonesty, or misappropriation;
+   (e) Violation of Company policies.
+
+10.3 Upon termination, the Employee shall:
+   (a) Return all Company property, documents, and Confidential Information;
+   (b) Complete all pending work and handover responsibilities;
+   (c) Settle all outstanding dues and advances.
+
+11. DISPUTE RESOLUTION
+
+11.1 Any dispute arising out of or in connection with this Agreement shall first be attempted to be resolved through mutual negotiation.
+
+11.2 If the dispute is not resolved within [X] days, it shall be referred to arbitration in accordance with the Arbitration and Conciliation Act, 1996.
+
+11.3 The arbitration shall be conducted by a sole arbitrator mutually appointed by the Parties.
+
+11.4 The seat of arbitration shall be [CITY], India.
+
+11.5 The language of arbitration shall be English.
+
+12. GOVERNING LAW AND JURISDICTION
+
+12.1 This Agreement shall be governed by and construed in accordance with the laws of India.
+
+12.2 Subject to the arbitration clause, the courts of [CITY] shall have exclusive jurisdiction.
+
+13. GENERAL PROVISIONS
+
+13.1 Entire Agreement: This Agreement constitutes the entire agreement between the Parties and supersedes all prior negotiations and agreements.
+
+13.2 Amendment: This Agreement may only be amended by a written instrument signed by both Parties.
+
+13.3 Severability: If any provision is held invalid, the remaining provisions shall continue in full force and effect.
+
+13.4 Waiver: No waiver of any breach shall constitute a waiver of any subsequent breach.
+
+13.5 Notices: All notices shall be in writing and delivered to the addresses specified herein.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first written above.
+
+For and on behalf of [COMPANY NAME]:
+
+_______________________________
+Name: [AUTHORIZED SIGNATORY]
+Designation: [DESIGNATION]
+Date: [DATE]
+
+EMPLOYEE:
+
+_______________________________
+Name: [EMPLOYEE NAME]
+Date: [DATE]
+
+WITNESSES:
+
+1. _______________________________
+   Name:
+   Address:
+
+2. _______________________________
+   Name:
+   Address:

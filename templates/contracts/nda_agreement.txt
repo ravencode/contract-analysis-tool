@@ -1,0 +1,162 @@
+NON-DISCLOSURE AGREEMENT (NDA)
+
+This Non-Disclosure Agreement ("Agreement") is made and entered into on this [DATE] day of [MONTH], [YEAR]
+
+BETWEEN:
+
+[DISCLOSING PARTY NAME], a company incorporated under the laws of India, having its registered office at [ADDRESS] (hereinafter referred to as the "Disclosing Party") of the FIRST PART;
+
+AND
+
+[RECEIVING PARTY NAME], a company/individual having its registered office/residing at [ADDRESS] (hereinafter referred to as the "Receiving Party") of the SECOND PART.
+
+(Each a "Party" and collectively the "Parties")
+
+WHEREAS:
+
+A. The Disclosing Party possesses certain confidential and proprietary information;
+B. The Receiving Party desires to receive such information for the purpose of [PURPOSE];
+C. The Parties wish to protect the confidentiality of such information.
+
+NOW, THEREFORE, in consideration of the mutual covenants herein, the Parties agree as follows:
+
+1. DEFINITIONS
+
+1.1 "Confidential Information" means any and all information disclosed by the Disclosing Party to the Receiving Party, whether orally, in writing, electronically, or by any other means, that is designated as confidential or that reasonably should be understood to be confidential given the nature of the information and the circumstances of disclosure, including but not limited to:
+
+   (a) Trade secrets, inventions, ideas, processes, formulas, source code, and object code;
+   (b) Business plans, financial information, and projections;
+   (c) Customer lists, supplier information, and pricing data;
+   (d) Marketing strategies and product development plans;
+   (e) Technical data, designs, and specifications;
+   (f) Any other information marked as "Confidential" or "Proprietary".
+
+1.2 "Purpose" means [DESCRIPTION OF PURPOSE FOR WHICH INFORMATION IS SHARED].
+
+2. OBLIGATIONS OF THE RECEIVING PARTY
+
+2.1 The Receiving Party shall:
+
+   (a) Maintain the confidentiality of the Confidential Information using the same degree of care it uses to protect its own confidential information, but in no event less than reasonable care;
+   
+   (b) Not disclose the Confidential Information to any third party without the prior written consent of the Disclosing Party;
+   
+   (c) Use the Confidential Information solely for the Purpose and for no other purpose;
+   
+   (d) Limit access to the Confidential Information to its employees, agents, and contractors who have a need to know and who are bound by confidentiality obligations at least as restrictive as those contained herein;
+   
+   (e) Promptly notify the Disclosing Party of any unauthorized use or disclosure of the Confidential Information.
+
+3. EXCLUSIONS FROM CONFIDENTIAL INFORMATION
+
+3.1 The obligations of confidentiality shall not apply to information that:
+
+   (a) Is or becomes publicly available through no fault of the Receiving Party;
+   
+   (b) Was in the Receiving Party's possession prior to disclosure by the Disclosing Party, as evidenced by written records;
+   
+   (c) Is independently developed by the Receiving Party without use of or reference to the Confidential Information;
+   
+   (d) Is rightfully obtained by the Receiving Party from a third party without restriction on disclosure;
+   
+   (e) Is disclosed with the prior written approval of the Disclosing Party.
+
+4. COMPELLED DISCLOSURE
+
+4.1 If the Receiving Party is compelled by law, regulation, or court order to disclose any Confidential Information, the Receiving Party shall:
+
+   (a) Provide prompt written notice to the Disclosing Party to enable it to seek a protective order;
+   
+   (b) Cooperate with the Disclosing Party in seeking such protective order;
+   
+   (c) Disclose only that portion of the Confidential Information that is legally required to be disclosed.
+
+5. TERM AND TERMINATION
+
+5.1 This Agreement shall remain in effect for a period of [X] years from the Effective Date.
+
+5.2 Either Party may terminate this Agreement by giving [Y] days' written notice to the other Party.
+
+5.3 The confidentiality obligations under this Agreement shall survive termination for a period of [Z] years.
+
+6. RETURN OF CONFIDENTIAL INFORMATION
+
+6.1 Upon termination of this Agreement or upon request by the Disclosing Party, the Receiving Party shall:
+
+   (a) Promptly return all tangible materials containing Confidential Information;
+   
+   (b) Destroy all copies, notes, and derivatives of the Confidential Information;
+   
+   (c) Certify in writing that it has complied with the foregoing obligations.
+
+6.2 Notwithstanding the above, the Receiving Party may retain one copy of the Confidential Information for archival purposes, subject to the continuing confidentiality obligations.
+
+7. NO LICENSE OR WARRANTY
+
+7.1 Nothing in this Agreement grants the Receiving Party any license or right to use the Confidential Information except as expressly set forth herein.
+
+7.2 The Disclosing Party makes no representation or warranty as to the accuracy or completeness of the Confidential Information.
+
+7.3 The Disclosing Party shall not be liable for any damages arising from the Receiving Party's use of the Confidential Information.
+
+8. REMEDIES
+
+8.1 The Receiving Party acknowledges that any breach of this Agreement may cause irreparable harm to the Disclosing Party for which monetary damages may be inadequate.
+
+8.2 The Disclosing Party shall be entitled to seek injunctive relief, specific performance, and other equitable remedies in addition to any other remedies available at law.
+
+9. NO OBLIGATION
+
+9.1 Nothing in this Agreement shall obligate either Party to:
+
+   (a) Enter into any further agreement or transaction;
+   
+   (b) Disclose any particular Confidential Information;
+   
+   (c) Continue discussions or negotiations.
+
+10. GOVERNING LAW AND JURISDICTION
+
+10.1 This Agreement shall be governed by and construed in accordance with the laws of India.
+
+10.2 Any dispute arising out of this Agreement shall be subject to the exclusive jurisdiction of the courts of [CITY], India.
+
+11. GENERAL PROVISIONS
+
+11.1 Entire Agreement: This Agreement constitutes the entire agreement between the Parties regarding the subject matter hereof.
+
+11.2 Amendment: This Agreement may only be amended by a written instrument signed by both Parties.
+
+11.3 Waiver: No waiver of any provision shall constitute a waiver of any other provision.
+
+11.4 Severability: If any provision is held invalid, the remaining provisions shall continue in full force.
+
+11.5 Assignment: Neither Party may assign this Agreement without the prior written consent of the other Party.
+
+11.6 Notices: All notices shall be in writing and delivered to the addresses specified below.
+
+11.7 Counterparts: This Agreement may be executed in counterparts, each of which shall be deemed an original.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first written above.
+
+For [DISCLOSING PARTY NAME]:
+
+_______________________________
+Name:
+Designation:
+Date:
+
+Address for Notices:
+[ADDRESS]
+Email: [EMAIL]
+
+For [RECEIVING PARTY NAME]:
+
+_______________________________
+Name:
+Designation:
+Date:
+
+Address for Notices:
+[ADDRESS]
+Email: [EMAIL]
